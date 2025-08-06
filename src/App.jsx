@@ -192,7 +192,7 @@ export default function App() {
   return (
     <div className="bg-slate-100 dark:bg-slate-900 min-h-screen flex items-center justify-center p-4 font-sans transition-colors transition-duration-500">
       <div className="w-full max-w-lg mx-auto bg-white dark:bg-slate-800 rounded-2xl shadow-lg p-6 text-slate-800 dark:text-slate-200 transition-colors">
-        <div className="flex items-center gap-2 mb-4">
+        <div className="flex items-center gap-2 mb-4 ">
           <form
             onSubmit={handleSearch}
             className="flex-grow flex items-center gap-2"

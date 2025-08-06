@@ -8,5 +8,5 @@ export default defineConfig({
     server: {
     host: true, // Allows access from other devices on the network
  },
- base: '/crabby-weather/', // Base path for GitHub Pages
+ //base: '/crabby-weather/', // Base path for GitHub Pages
 })
