@@ -1,12 +1,25 @@
-# React + Vite
+# 🌦️ crabby-weather
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En minimalistisk väderapp byggd med React och Vite – stilren, snabb och krabbigt användarvänlig.
 
-Currently, two official plugins are available:
+## 🚀 Vad är detta?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**crabby-weather** är en väderapplikation byggd med moderna webbteknologier. Den hämtar och visar väderinformation med en tydlig layout och snabba uppdateringar, perfekt för dig som vill hålla koll på vädret utan krångel.
 
-## Expanding the ESLint configuration
+## 🧱 Teknologi
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – UI-bibliotek för dynamisk rendering
+- ⚡ **Vite** – Blixtsnabb utvecklingsmiljö
+- 🧹 **ESLint** – Kodkvalitet och formattering
+- 🎨 **CSS & HTML** – Styling och markup
+
+## 📂 Filstruktur
+
+```plaintext
+├── public/                 # Offentliga resurser
+├── src/                    # Källkod
+│   └── hourly/             # Logik för timprognoser
+├── .gitignore              # Git-inställningar
+├── package.json            # Projekt- och beroendeinfo
+├── vite.config.js          # Vite-konfiguration
+├── README.md               # Projektbeskrivning
