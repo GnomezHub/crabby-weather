@@ -6,12 +6,12 @@ En minimalistisk väderapp byggd med React och Vite – stilren, snabb och krabb
 
 **crabby-weather** är en väderapplikation byggd med moderna webbteknologier. Den hämtar och visar väderinformation med en tydlig layout och snabba uppdateringar, perfekt för dig som vill hålla koll på vädret utan krångel.
 
-## 🧱 Teknologi
+## 🧱 Teknologier
 
 - ⚛️ **React** – UI-bibliotek för dynamisk rendering
 - ⚡ **Vite** – Blixtsnabb utvecklingsmiljö
 - 🧹 **ESLint** – Kodkvalitet och formattering
-- 🎨 **CSS & HTML** – Styling och markup
+- 🎨 **Tailwind** – Styling och markup
 
 ## 📂 Filstruktur
 
